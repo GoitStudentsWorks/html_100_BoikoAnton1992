@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Full-Stack-Force/",
+    "build": "vite build --base=/html_100_BoikoAnton1992/",
     "preview": "vite preview"
   },
   "devDependencies": {
